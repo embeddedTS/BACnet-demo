@@ -1,7 +1,7 @@
 /**************************************************************************
 *
 * Copyright (C) 2006 Steve Karg <skarg@users.sourceforge.net>
-* Copyright (C) 2017 Technologic Systems <kris@embeddedarm.com>
+* Copyright (C) 2017-2022 Technologic Systems, Inc. dba embeddedTS <kris@embeddedTS.com>
 *
 * Permission is hereby granted, free of charge, to any person obtaining
 * a copy of this software and associated documentation files (the
@@ -43,7 +43,7 @@
  *
  * This example was built and tested against bacnet-stack-0.8.3, using the
  * device RIBTW2401B-BC, on the TS-7680.  See more information on this example
- * here: https://wiki.embeddedarm.com/wiki/TS-7680_BACnet
+ * here: https://wiki.embeddedTS.com/wiki/TS-7680_BACnet
  */ 
 
 
